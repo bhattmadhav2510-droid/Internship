@@ -1,0 +1,42 @@
+{
+  "item_1": {
+    "name": "Wireless Noise-Canceling Headphones",
+    "price": 149.99,
+    "rating": 4.7
+  },
+  "item_2": {
+    "name": "Ergonomic Mechanical Keyboard",
+    "price": 89.50,
+    "rating": 4.5
+  },
+  "item_3": {
+    "name": "Ultra-Wide Gaming Monitor 34-inch",
+    "price": 420.00,
+    "rating": 4.8
+  },
+  "item_4": {
+    "name": "USB-C Multi-Port Hub",
+    "price": 29.99,
+    "rating": 4.2
+  },
+  "item_5": {
+    "name": "Adjustable LED Desk Lamp",
+    "price": 19.95,
+    "rating": 4.0
+  },
+  "item_6": {
+    "name": "Smart Fitness Watch",
+    "price": 199.99,
+    "rating": 4.6
+  },
+  "item_7": {
+    "name": "Portable Bluetooth Speaker",
+    "price": 45.00,
+    "rating": 4.3
+  },
+  "item_8": {
+    "name": "Vertical Ergonomic Mouse",
+    "price": 34.99,
+    "rating": 4.1
+  }
+}
